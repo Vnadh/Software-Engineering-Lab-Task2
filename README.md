@@ -109,17 +109,17 @@ Generates:
 ## 🖥️ Sample Output
 
 ```
-ID    Name      Total   Percent   Grade
----------------------------------------
-S101  Rahul     408     81.60     B
-S102  Anjali    456     91.20     O
-S103  Kiran     294     58.80     D
-...
----------------------------------------
-Class Avg : 75.40
-Highest   : 97.00
-Lowest    : 48.80
-```
+ID      Name    Total   Percent Grade
+-------------------------------------------
+S101    Rahul   408     81.60   B
+S102    Anjali  456     91.20   O
+S103    Kiran   294     58.80   D
+S104    Meena   244     48.80   F
+....
+-------------------------------------------
+Class Avg: 75.40
+Highest: 97.00
+Lowest: 48.80
 
 ---
 
